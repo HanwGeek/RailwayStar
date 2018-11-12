@@ -1,4 +1,4 @@
-# gaotie-finder
+# Railway Star
 
 > Gaotie visualization with Vue.js.
 
