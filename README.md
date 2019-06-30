@@ -1,6 +1,6 @@
 # Railway Star
 
-> Gaotie visualization with Vue.js.
+> Railway visualization and query with Vue.js.
 
 ## Build Setup
 
